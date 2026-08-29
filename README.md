@@ -7,3 +7,4 @@ My solutions to Leetcode problems with explanations.
 ## Example Output
 
 ![SQL Solution Screenshot](https://github.com/user-attachments/assets/2493a599-6ae6-4864-b2a5-8ea3613e667c)
+![Find Customer Referee Screenshot](https://github.com/user-attachments/assets/4d80798f-da36-46b5-872f-4dd857711578)
